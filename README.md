@@ -6,14 +6,14 @@ The site is fully responsive, lightweight, and intentionally built without frame
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 🔗 **Portfolio Website:**  
 https://ashilr8.github.io/portfolio
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **HTML5** – Semantic structure and accessibility
 - **CSS3** – Modern layout, animations, and responsive design
@@ -22,7 +22,7 @@ https://ashilr8.github.io/portfolio
 
 ---
 
-## ✨ Features
+##  Features
 
 - Clean, modern, and professional UI
 - Smooth entrance and scroll-based animations
@@ -32,7 +32,7 @@ https://ashilr8.github.io/portfolio
 
 ---
 
-## 🎯 Purpose of This Project
+##  Purpose of This Project
 
 As a developer with a strong interest in backend systems and cloud technologies, this project demonstrates that I:
 
@@ -43,5 +43,5 @@ As a developer with a strong interest in backend systems and cloud technologies,
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
